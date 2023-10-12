@@ -1,0 +1,36 @@
+div{
+    width:300px;
+    /* border: 5px solid green; */
+    /* padding: 5px; */
+    /* margin:20px; */
+}
+
+div {
+    border-style: dashed;
+    /* border-style: dotted;
+    border-top-style:double;
+    border-right-style:groove;
+    border-bottom-style:ridge;
+    border-left-style:inset; */
+
+    /* border-style: dotted dashed solid double;
+    border-width: 5px;
+    border-top-width:10px;
+    border-color: aqua red blue yellow; */
+
+}
+
+div {
+    /* padding-top: 40px;
+    padding-right: 30px;
+    padding-bottom: 20px;
+    padding-left: 10px; */
+    padding: 40px 30px 20px 10px;
+}
+
+div{
+    margin-top:40px;
+    margin-right:30px;
+    margin-bottom:20px;
+    margin-left:10px;
+}

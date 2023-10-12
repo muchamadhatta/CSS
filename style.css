@@ -1,0 +1,16 @@
+.link-title{
+    color:green;
+    margin-left: 20px;
+}
+.link-button{
+    margin-left: 20px;
+    color:green;
+}
+
+button{
+    color:red;
+}
+p{
+    background-color:rgb(255, 0, 0);
+    padding:1rem;
+}
